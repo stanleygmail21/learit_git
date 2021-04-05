@@ -13,7 +13,7 @@ public class Dollars {
 		int Fives = (dollarAmount - (20 * Twenties + 10 * Tens)) / 5;
 		int Ones = dollarAmount - (20 * Twenties + 10 * Tens + 5 * Fives);
 		
-		System.out.println("Number of 20s: " + Twenties + "\n"
+		System.out.println("Number of 20s:  " + Twenties + "\n"
 				+ "Number of 10s: " + Tens + "\n"
 				+  "Number of 5s: " + Fives + "\n"
 				+ "Number of 1s: " + Ones);
