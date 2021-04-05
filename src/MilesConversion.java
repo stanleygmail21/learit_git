@@ -7,8 +7,7 @@ public class MilesConversion {
 		final int yards = 1760;
 		
 		int miles = 30;
-		
-
+	
 
 		int cInches = miles * inches;
 		int cFeet = miles * feet;
