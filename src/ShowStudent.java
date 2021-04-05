@@ -5,6 +5,10 @@ public class ShowStudent {
 	public static void main(String[] args) {
 	    Student Student1 = new Student();
 	    
+
+
+
+
 	    Scanner input = new Scanner(System.in);
 	    
 	    System.out.println("Enter your Student ID");
